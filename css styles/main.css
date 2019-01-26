@@ -1,3 +1,4 @@
+
 DocViewer
 Zoom
 Pages
@@ -37,3 +38,11 @@ height: auto;
 float: right;
 }
 #profile-pic {
+width: 100px;
+height: auto;
+float: right;
+}
+footer {
+font-size: 12px;
+}
+Annotations
